@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/thombashi/subprocrunner/commit/6fb306496ea897b34bccd66c4e801843ebc00862",
       "git:hexsha": "6fb306496ea897b34bccd66c4e801843ebc00862",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.0.1"
     },
     {
