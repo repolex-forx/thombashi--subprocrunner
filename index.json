@@ -1,0 +1,11 @@
+{
+  "org": "thombashi",
+  "repo": "subprocrunner",
+  "versions": [
+    {
+      "commit": "6fb306496ea897b34bccd66c4e801843ebc00862",
+      "tag": "v2.0.1",
+      "parsed_at": "2026-10-18T09:22:26.618859+00:00"
+    }
+  ]
+}
